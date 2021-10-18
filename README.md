@@ -8,6 +8,13 @@ SavedInstallers - Downloaded and saved versions of office that allow the user to
 TempInstall - Contains temporary files of a download and install of office that gets deleted before and after a setup.
 Setup - The application that allows all this to occur.
 
+## How to use:
+Download from the releases tab.
+Extract the zip file.
+Open the folder you extracted and run Installer.bat
+It will ask for admin perms.
+Use the tool to do all sorts of stuff.
+
 
 ## What this tool offers:
 Ability to download and install office.
